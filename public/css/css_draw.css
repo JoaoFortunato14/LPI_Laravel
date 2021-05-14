@@ -1,0 +1,14 @@
+.no-margin {
+    margin: 0;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col-9 {
+    -ms-flex: 0 0 75%;
+    flex: 0 0 75%;
+    max-width: 75%;
+}
